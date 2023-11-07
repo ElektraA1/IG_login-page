@@ -1,4 +1,4 @@
-# Meu primeiro teste de criação de página web
+# My first try to create a web page
 
-Recriando a página inicial de login do Instagram
+Recreating the login page from Instagram 
 
